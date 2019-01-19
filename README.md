@@ -1,5 +1,6 @@
 ﻿# MovingWindow
 うごくメモ帳...
+![result](https://github.com/yorimoi/MovingWindow/demo.gif)
 
 ## Usage
 `ugomemo.exe [app] [/s speed]`
