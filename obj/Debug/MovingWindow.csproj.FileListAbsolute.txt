@@ -1,0 +1,7 @@
+C:\home\VisualStudio\MovingWindow\MovingWindow\bin\Debug\MovingWindow.exe.config
+C:\home\VisualStudio\MovingWindow\MovingWindow\bin\Debug\MovingWindow.exe
+C:\home\VisualStudio\MovingWindow\MovingWindow\bin\Debug\MovingWindow.pdb
+C:\home\VisualStudio\MovingWindow\MovingWindow\obj\Debug\MovingWindow.csprojAssemblyReference.cache
+C:\home\VisualStudio\MovingWindow\MovingWindow\obj\Debug\MovingWindow.csproj.CoreCompileInputs.cache
+C:\home\VisualStudio\MovingWindow\MovingWindow\obj\Debug\MovingWindow.exe
+C:\home\VisualStudio\MovingWindow\MovingWindow\obj\Debug\MovingWindow.pdb
