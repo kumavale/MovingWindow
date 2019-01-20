@@ -5,7 +5,7 @@
 ## Usage
 `ugomemo.exe [app] [/s speed]`
 
-## Installation
+## Compile
 Visual Studio Build  
 or  
 `csc Program.cs -out:ugomemo.exe -target:winexe`
