@@ -39,6 +39,7 @@ namespace MovingWindow
                     case "-s":
                     case "/s":
                         speed = Int32.Parse(args[++i]);
+                        if(speed < 1) speed = 1;
                         break;
                     default:
                         app = args[i];
