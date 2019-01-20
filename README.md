@@ -3,7 +3,11 @@
 ![Demo](https://github.com/yorimoi/MovingWindow/blob/master/demo.gif)
 
 ## Usage
-`ugomemo.exe [app] [/s speed]`
+`ugomemo.exe [app] [<options>]`  
+  Options:  
+    -s, --speed [interval msec]  
+    -t, --top
+
 
 ## Compile
 Visual Studio Build  
