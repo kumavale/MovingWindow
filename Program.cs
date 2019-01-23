@@ -3,6 +3,7 @@
 using System.Runtime.InteropServices; // DLL Import
 using System.Diagnostics;
 using System.Drawing;
+using System.Windows.Forms;
 
 namespace MovingWindow
 {
@@ -45,6 +46,19 @@ namespace MovingWindow
                     case "--top":
                     case "/t":
                         t = HWND_TOPMOST;
+                        break;
+                    case "-h":
+                    case "--help":
+                    case "/h":
+                        MessageBox.Show(
+$@"Usage:
+    -s, --speed [interval msec]
+    -t, --top",
+                            "Help",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Asterisk
+                            );
+                        Environment.Exit(0);
                         break;
                     default:
                         app = args[i];
