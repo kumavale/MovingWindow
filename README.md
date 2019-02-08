@@ -5,9 +5,9 @@
 ## Usage
 `ugomemo.exe [app] [<options>]`  
   Options:  
-    -s, --speed [interval msec]  
-    -t, --top
-
+    -s, --speed [interval msec]   Moving speed  
+    -t, --top                     Always top  
+    -h, --help                    Show help
 
 ## Compile
 Visual Studio Build  
@@ -17,3 +17,6 @@ or
 ## Environment
 Windows10  
 .NET Framework 4.6.1
+
+## License
+MIT
