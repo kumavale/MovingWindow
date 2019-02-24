@@ -1,5 +1,6 @@
 ﻿# MovingWindow
-うごくメモ帳...
+うごくメモ帳...  
+目の筋肉を鍛えることにより, 視力が回復します(適当).
 ![Demo](https://github.com/yorimoi/MovingWindow/blob/master/demo.gif)
 
 ## Usage
